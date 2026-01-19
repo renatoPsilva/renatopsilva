@@ -5,7 +5,7 @@
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=fff)](https://www.codewars.com/users/estudosDesesperados)
 
-Seja bem vindo! Tenho 21 anos e sou um entusiasta por tecnologia, concluí o ensino médio em uma escola técnica em informática e a anos tenho contato com as linguagens e tecnologias da área de desenvolvimento web, com mais foco no frontend.
+Seja bem vindo! Tenho 22 anos e sou um entusiasta por tecnologia, concluí o ensino médio em uma escola técnica em informática e a anos tenho contato com as linguagens e tecnologias da área de desenvolvimento web, com mais foco no frontend.
 Tenho o sonho de construir uma carreira sólida na área e me tornar fullstack um dia.
 
 
