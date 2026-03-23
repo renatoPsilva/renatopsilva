@@ -8,15 +8,11 @@
 Seja bem vindo! Tenho 22 anos e sou um entusiasta por tecnologia, concluí o ensino médio em uma escola técnica em informática e a anos tenho contato com as linguagens e tecnologias da área de desenvolvimento web, com mais foco no frontend.
 Tenho o sonho de construir uma carreira sólida na área e me tornar fullstack um dia.
 
-
 ### Linguagens e Frameworks
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
 ### Tecnologias
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 
 ## Estatísticas do perfil
 <a href="https://github.com/renatopsilva/github-readme-stats">
