@@ -12,6 +12,7 @@ Fullstack em formação pela **Alpha Edtech** (turma Berim) — web, APIs e IA, 
 ### 🧰 Stack
 
 **Frontend**
+
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)](https://react.dev/)
@@ -20,16 +21,19 @@ Fullstack em formação pela **Alpha Edtech** (turma Berim) — web, APIs e IA, 
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 **Backend**
+
 [![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=node.js&logoColor=fff)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff)](https://expressjs.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
 [![WebSocket](https://img.shields.io/badge/WebSocket-010101)](https://developer.mozilla.org/pt-BR/docs/Web/API/WebSockets_API)
 
 **Dados**
+
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff)](https://www.postgresql.org/)
 [![Redis](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=fff)](https://redis.io/)
 
 **Ferramentas**
+
 [![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff)](https://vitest.dev/)
 [![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?logo=testinglibrary&logoColor=fff)](https://testing-library.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](https://www.docker.com/)
