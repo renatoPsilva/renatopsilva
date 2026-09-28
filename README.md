@@ -50,7 +50,3 @@ Equipe de 4: **engine de blocos, UI da SPA e áudio**. [Jogar](https://emanuel37
 Jogo multiplayer cooperativo com tabuleiro 3D, chat e reconexão — React/Three.js, Express/WebSocket, Redis, PostgreSQL e Docker/NGINX (1.280 commits).
 Equipe de 12: **backend e infraestrutura**. [Jogar](https://issued-flower-analyst-fits.trycloudflare.com/server01/) · [Código](https://github.com/CaianFranca/desafio-alpha-multiplayer)
 
-### 🎓 Formação
-
-- **Alpha Edtech** — fullstack, turma Berim (desde março de 2026)
-- **Técnico em Informática** — EEEP Prof. Sebastião Vasconcelos Sobrinho (2019–2021)
