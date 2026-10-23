@@ -7,7 +7,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/renatoPsilva)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=fff)](https://www.codewars.com/users/estudosDesesperados)
 
-Fullstack em formação pela **Alpha Edtech** (turma Berim) — web, APIs e IA, de React/TypeScript a Node/Python, PostgreSQL e Docker. Tianguá, Ceará · remoto.
+Fullstack em formação pela **Alpha Edtech** (turma Berim e turma Kaizen) — web, APIs e IA, de React/TypeScript a Node/Python, PostgreSQL e Docker. Tianguá, Ceará · remoto.
 
 ### 🧰 Stack
 
